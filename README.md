@@ -1,9 +1,8 @@
 Btech_CSE-Materials
 
-Btech 3_2 
+Created for helping each and every CSE student where can access all materials at one place.
 
-Btech 4_1 CSE Materails - Software Project management(SPM),Information Security(IS),Mobile Application development(MAD),Machine Learning(ML)
-
-Btech 4_2
+Btech 3_1, 3_2, 4_1, 4_2 and other Semester Materials 
 
 To get all materials click this link : https://drive.google.com/drive/folders/1hNArY269kbssqhiu5UvUkcCnL4e2SslF?usp=sharing
+
